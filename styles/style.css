@@ -60,8 +60,7 @@ ol {
   grid-template-areas: "result content__details";
   justify-content: space-between;
   align-content: start;
-  gap: 30px;
- 
+  gap: 30px; 
 }
 
 .result {
